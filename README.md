@@ -9,7 +9,7 @@ The content of the animation is a character which explores a mysterious forest w
   Watch as our custom-made character navigates through the forest environment, with smooth animations and transitions.
 - ### Interactive Elements:
   Users can control the character's movements and flashlight using simple keyboard inputs, enhancing the immersive experience.
-- #### Visual Effects:
+- ### Visual Effects:
   Experience the ambiance of the forest with carefully crafted visuals, including shadow effects, foliage, and atmospheric lighting.
 - ### Special Effects:
   We've incorporated special effects to enhance the overall experience. One notable feature is the minimap, which provides users with a bird's-eye view of the forest layout, aiding in navigation and adding an extra layer of depth to the animation.
