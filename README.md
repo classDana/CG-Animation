@@ -13,8 +13,8 @@ The content of the animation is a character which explores a mysterious forest w
   Experience the ambiance of the forest with carefully crafted visuals, including shadow effects, foliage, and atmospheric lighting.
 - ### Special Effects:
   We've incorporated special effects to enhance the overall experience. One notable feature is the minimap, which provides users with a bird's-eye view of the forest layout, aiding in navigation and adding an extra layer of depth to the animation.
-  - ### Treasure Hunt:
-  Follow along as the character embarks on a journey, uncovering clues and ultimately stumbling upon a hidden treasure at the end of the adventure.
+- ### Treasure Hunt:
+Follow along as the character embarks on a journey, uncovering clues and ultimately stumbling upon a hidden treasure at the end of the adventure.
 
 ## Credits
 This project was developed by Daniela Milisic and Maria Bendra as part of Computer Graphics at Johannes Kepler University. We'd like to extend our gratitude to our professor and classmates for their support and feedback throughout the development process.
